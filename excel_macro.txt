@@ -1,0 +1,9 @@
+1	Read From CSV file: "C:\Users\gsand\OneDrive\Desktop\Automation Anywhere\Project_dev\variables\yr_qtr.csv" Delimiter: "Comma" Header: "Yes" Trim Leading Space: "No" Trim Trailing Space: "No" Session: 's1'
+2	Start Loop "Each row in a CSV/Text file of Session: s1"
+3	     Variable Operation: $Filedata Column(1)$ To $YR$
+4	     Variable Operation: $Filedata Column(2)$ To $qtr$
+5	     Message Box: "$YR$ - $qtr$"
+6	     Excel: Open Spreadsheet "C:\Users\gsand\OneDrive\Desktop\Automation Anywhere\Project_dev\forms\extract_form.xlsm". ActiveSheet: "Default". Session: s1
+7	     Excel: Run Excel Macro "mc" arguments "$YR$, $qtr$". Session: s1
+8	End Loop
+9	Excel: Close Spreadsheet. Session: s1

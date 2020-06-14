@@ -1,0 +1,1643 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>thirtydc10qdec2014vfinal.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+
+[ X ] QUARTERLY REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES  EXCHANGE ACT
+      OF 1934
+
+      For Quarterly Period Ended December 31, 2014
+
+                                       or
+
+[   ] TRANSITION REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT
+      OF 1934
+
+      For the Transition period from _______________ to ______________
+
+
+                        COMMISSION FILE NUMBER: 000-30999
+
+
+                                   30DC, INC.
+              ---------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+            MARYLAND                                   16-1675285
+----------------------------------         -------------------------------------
+ (State or other jurisdiction of           (I.R.S. Employer Identification No.)
+ of incorporation or organization)
+
+
+                 80 BROAD STREET, 5TH FLOOR, NEW YORK, NY 10004
+         --------------------------------------------------------------
+               (Address of principal executive offices) (Zip Code)
+
+                                 (212) 962-4400
+               Registrant's telephone number, including area code
+
+         --------------------------------------------------------------
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days.
+
+                                            Yes[_x_]          No[__]
+
+Indicate by check mark whether the registrant has submitted  electronically  and
+posted on its corporate Web site, if any, every  Interactive  Data File required
+to be submitted and posted pursuant to Rule 405 of Regulation S-T (ss.232.405 of
+this chapter)  during the  preceding 12 months (or for such shorter  period that
+the registrant was required to submit and post such files).
+
+                                            Yes[_x_]          No[__]
+
+
+<PAGE>
+
+Indicate by check mark whether the registrant is a large  accelerated  filer, an
+accelerated filer, a non-accelerated  filer, or a smaller reporting company. See
+definitions  of "large  accelerated  filer,"  "accelerated  filer" and  "smaller
+reporting company" in Rule 12b-2 of the Exchange Act. (Check One).
+
+Large accelerated filer    [___]            Accelerated filer  [___]
+Non-accelerated filer      [___]            Smaller reporting company [_X_]
+(Do not check if a smaller
+reporting company)
+
+Indicate by check mark whether the  Registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).
+
+                                            Yes[__]           No[_X_]
+
+Indicate the number of shares  outstanding  of each of the  issuer's  classes of
+common stock as of the latest practicable date.
+
+As of February 12, 2015, the number of shares  outstanding  of the  registrant's
+class of common stock was 76,853,464.
+
+
+<PAGE>
+                                TABLE OF CONTENTS
+
+                                                                            PAGE
+                         PART I - FINANCIAL INFORMATION                     ----
+
+Item 1. Financial Statements                                                   2
+
+         Condensed Consolidated Balance Sheets (Unaudited) as of
+         December 31, 2014 and June 30, 2014                                   3
+
+         Condensed Consolidated Statements of Operations (Unaudited)
+         for the Three and Six Months Ended December 31, 2014 and 2013         4
+
+         Condensed Consolidated Statements of Cash Flows (Unaudited)
+         for the Six Months Ended December 31, 2014 and 2013                   5
+
+         Notes to Condensed Consolidated Financial Statements (Unaudited)      6
+
+Item 2. Management's Discussion and Analysis of Financial Condition and
+        Results of Operations                                                 12
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk            20
+
+Item 4. Controls and Procedures                                               20
+
+                           PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings                                                     22
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds           22
+
+Item 3. Defaults upon Senior Securities                                       22
+
+Item 4. Mine Safety Disclosures                                               22
+
+Item 5. Other Information                                                     22
+
+Item 6. Exhibits                                                              22
+
+Signatures                                                                    23
+
+
+
+
+<PAGE>
+
+                          PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -2-
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                  30DC, INC. AND SUBSIDIARY
+                                            Condensed Consolidated Balance Sheets
+
+
+                                                                                        December                June
+                                                                                        31, 2014              30, 2014
+                                                                                     ----------------    -------------------
+                                                                                        Unaudited
+<S>                                                                                  <C>                 <C>
+Assets
+
+Current Assets
+
+         Cash and Cash Equivalents                                                   $       123,102     $          102,684
+         Restricted Cash                                                                      90,000                 83,730
+         Accrued Commissions Receivable                                                        2,945                 12,706
+         Accounts Receivable                                                                  49,433                 38,313
+         Prepaid Expenses                                                                     21,028                 24,291
+         Assets of Discontinued Operations                                                   106,063                116,313
+                                                                                     ----------------    -------------------
+
+                Total  Current Assets                                                        392,571                378,037
+
+Property and Equipment, Net                                                                   20,636                 19,066
+Intangible Assets, Net                                                                       187,000                220,000
+Goodwill                                                                                   2,027,564              2,027,564
+                                                                                     ----------------    -------------------
+
+                Total Assets                                                         $     2,627,771     $        2,644,667
+                                                                                     ================    ===================
+
+
+Liabilities and Stockholders' Equity
+
+Current Liabilities
+
+         Accounts Payable                                                            $       233,433     $          190,228
+         Accrued Expenses and Refunds                                                        607,629                625,565
+         Deferred Revenue                                                                    111,734                 90,716
+         Due to Related Parties                                                              916,253                805,483
+         Liabilities of Discontinued Operations                                              211,899                216,548
+                                                                                     ----------------    -------------------
+
+                Total Current Liabilities                                                  2,080,948              1,928,540
+                                                                                     ----------------    -------------------
+
+                Total Liabilities                                                          2,080,948              1,928,540
+                                                                                     ----------------    -------------------
+
+Stockholders' Equity
+
+         Preferred Stock, Par Value $0.001, 10,000,000 Authorized, -0- Issued                      -                      -
+         Common Stock, Par Value $0.001, 100,000,000 authorized,
+                76,853,464 issued and outstanding                                             76,853                 76,853
+         Paid in Capital                                                                   3,844,315              3,826,606
+         Accumulated Deficit                                                              (3,271,487)            (3,084,474)
+         Accumulated Other Comprehensive Loss                                               (102,858)              (102,858)
+                                                                                     ----------------    -------------------
+
+                Total Stockholders' Equity                                                   546,823                716,127
+                                                                                     ----------------    -------------------
+
+Total Liabilities and Stockholders' Equity                                           $     2,627,771     $        2,644,667
+                                                                                     ================    ===================
+
+</TABLE>
+
+     The accompanying notes are an integral part of the unaudited condensed
+                       consolidated financial statements.
+
+                                      -3-
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                   30DC, INC. AND SUBSIDIARY
+                                        Condensed Consolidated Statements of Operations
+                                                           Unaudited
+
+                                                          For the Three Months Ended             For the Six Months Ended
+                                                                 December 31,                          December 31,
+                                                          2014                 2013               2014              2013
+                                                     ----------------    ------------------   --------------    --------------
+<S>                                                  <C>                 <C>                  <C>               <C>
+
+Revenue
+
+        Commissions                                  $        14,991     $          12,755    $      28,926     $      31,729
+        Subscription Revenue                                  31,684                     -           61,638                 -
+        Products and Services                                130,047               194,991          786,225         2,118,896
+                                                     ----------------    ------------------   --------------    --------------
+
+                   Total Revenue                             176,722               207,746          876,789         2,150,625
+
+Operating Expenses                                           412,620               613,324        1,050,701         1,898,606
+                                                     ----------------    ------------------   --------------    --------------
+
+Operating Income (Loss)                                     (235,898)             (405,578)        (173,912)          252,019
+
+Other Income
+
+        Forgiveness of Debt                                        -                 6,260                -            93,513
+                                                     ----------------    ------------------   --------------    --------------
+
+                   Total Other Income                              -                 6,260                -            93,513
+                                                     ----------------    ------------------   --------------    --------------
+
+Income (Loss) From Continuing Operations                    (235,898)             (399,318)        (173,912)          345,532
+
+Income (Loss) From Discontinued Operations                    17,205                (6,974)         (13,101)          (14,986)
+                                                     ----------------    ------------------   --------------    --------------
+
+Net Income (Loss)                                    $      (218,693)    $        (406,292)   $    (187,013)    $     330,546
+                                                     ================    ==================   ==============    ==============
+
+Weighted Average Common Shares Outstanding
+Basic                                                     76,853,464            87,376,507       76,853,464        87,223,215
+Diluted                                                   76,853,464            87,376,507       76,853,464        87,723,215
+Earnings Per Common Share  (Basic)
+     Continuing Operations                           $         (0.00)    $           (0.00)   $       (0.00)    $        0.00
+     Discontinued Operations                                    0.00                 (0.00)           (0.00)             0.00
+Net Income (Loss) Per Common Share                   $         (0.00)    $           (0.00)   $       (0.00)    $        0.00
+
+Earnings Per Common Share  (Diluted)
+     Continuing Operations                           $         (0.00)    $           (0.00)   $       (0.00)    $        0.00
+     Discontinued Operations                                    0.00                 (0.00)           (0.00)             0.00
+Net Income (Loss) Per Common Share                   $         (0.00)    $           (0.00)   $       (0.00)    $        0.00
+
+</TABLE>
+
+
+     The accompanying notes are an integral part of the unaudited condensed
+                       consolidated financial statements.
+
+                                      -4-
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                               30DC, INC. AND SUBSIDIARY
+                                    Condensed Consolidated Statements of Cash Flows
+                                             Six Months Ended December 31
+                                                       Unaudited
+                                                                                        2014               2013
+                                                                                   ---------------    ----------------
+<S>                                                                                <C>                <C>
+Cash Flows from Operating Activities:
+    Net Income (Loss)                                                              $     (187,013)    $       330,546
+    Loss From Discontinued Operations                                                      13,101              14,986
+
+     Adjustments to Reconcile Income from Continuing Operations
+     to Net Cash Provided By Operations
+        Depreciation and Amortization                                                      36,888              41,008
+        Equity Based Payments To Employees                                                 17,709              49,528
+        Gain on Debt Forgiveness                                                                -             (93,513)
+
+     Changes in Operating Assets and Liabilities
+        Restricted Cash                                                                    (6,270)           (139,625)
+        Accrued Commissions Receivable                                                      9,761              30,035
+        Accounts Receivable                                                               (11,120)           (211,482)
+        Prepaid Expenses                                                                    3,263              (4,210)
+        Accounts Payable                                                                   43,205             (72,553)
+        Accrued Expenses and Refunds                                                      (17,936)            298,965
+        Deferred Revenue                                                                   21,018             102,640
+        Due to Related Parties                                                            110,770            (229,152)
+                                                                                   ---------------    ----------------
+
+                  Net Cash Provided By Operating Activities                                33,376             117,173
+                                                                                   ---------------    ----------------
+
+Cash Flows from Investing Activities
+        Purchases of Property and Equipment                                                (5,458)             (6,601)
+                                                                                   ---------------    ----------------
+
+                  Net Cash Used in Investing Activitities                                  (5,458)             (6,601)
+                                                                                   ---------------    ----------------
+
+Cash Flows from Discontinued Operations
+        Cash Flows From Operating Activities                                               (7,500)            (83,098)
+                                                                                   ---------------    ----------------
+
+                  Net Cash Used in Discontinued Operations                                 (7,500)            (83,098)
+                                                                                   ---------------    ----------------
+
+Increase in Cash and Cash Equivalents                                                      20,418              27,474
+Cash and Cash Equivalents - Beginning of Period                                           102,684             116,372
+                                                                                   ---------------    ----------------
+
+Cash and Cash Equivalents - End of Period                                          $      123,102     $       143,846
+                                                                                   ===============    ================
+
+Supplemental Disclosures of Non Cash Financing Activity Cash paid
+ during the period for:
+        Interest                                                                   $        3,833     $        30,796
+        Income taxes                                                                          300                 600
+
+Common Stock Issued to Settle Liabilities                                          $            -     $       104,690
+</TABLE>
+
+     The accompanying notes are an integral part of the unaudited condensed
+                       consolidated financial statements.
+
+                                      -5-
+<PAGE>
+                           30DC, INC. AND SUBSIDIARY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2014
+                                   (UNAUDITED)
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+--------------------------------------------------
+
+BASIS OF PRESENTATION
+
+The accompanying unaudited condensed consolidated financial statements have been
+prepared  in  accordance  with  United  States  generally  accepted   accounting
+principles  ("GAAP")  and  with  instructions  to  Form-10Q  and  Article  10 of
+Regulation S-X. Accordingly, they do not include all the information required by
+GAAP for a complete set of financial  statements.  In the opinion of management,
+all adjustments,  (including normal recurring accruals) considered necessary for
+a fair  presentation have been included in the financial  statements.  Operating
+results for the interim  period are not  necessarily  indicative  of the results
+that may be  expected  for the  fiscal  year  ended  June 30,  2015 or any other
+period.  In addition,  the balance  sheet data at June 30, 2014 was derived from
+the audited financial  statements but does not include all disclosures  required
+by GAAP. This Form 10-Q should be read in conjunction with the Audited Financial
+Statements  for the year ended June 30, 2014  included in the  Company's  annual
+report on Form 10-K which was filed on October 10, 2014.
+
+The unaudited condensed  consolidated  financial statements include the accounts
+of 30DC,  Inc.,  (f/k/a Infinity  Capital Group,  Inc.) and its subsidiary 30DC,
+Inc., Delaware, ("30DC DE").
+
+REVENUE RECOGNITION
+
+The Company offers  customers the option to purchase its digital  products for a
+single payment or for a higher price consisting of a down payment and additional
+payments over a period of time which can be as long as one year. Pursuant to ASC
+605 the Company has  determined  that  revenue is  realizable  and the  earnings
+process is complete and the four criteria for revenue  recognition stated in SAB
+Topic 13 are met at the time of the initial purchase.  Accordingly,  the Company
+deems the sale to have occurred at the time of initial  purchase and records the
+full amount paid and/or due from a customer as revenue.  Typically customers are
+offered a period to review the  product  and request a refund and if a refund is
+requested the company reverses the revenue which was recorded at the time of the
+sale. The Company  records a liability for future refunds and reduces revenue by
+that amount. If a customer defaults on an additional payment, the customer loses
+access to the digital  product.  Based upon its past  experience  with  extended
+payment plans, the Company has estimated the number of future defaulted payments
+and has reduced revenue and accounts receivable by that amount.
+
+For an additional charge, the Company offers customers  ancillary services which
+are  not  required  to be  purchased  with a  product.  These  services  include
+additional  technical  support and/or  specific  product  services.  The Company
+recognizes  revenue when the service is completed;  receipts for services  which
+have not been completed are included in deferred revenue.
+
+NET INCOME OR LOSS PER SHARE
+
+The Company  computes  net income or loss per share in  accordance  with ASC 260
+"Earnings  per  Share."  Under ASC 260,  basic  net  income or loss per share is
+computed by dividing net loss per share available to common  stockholders by the
+weighted  average number of shares  outstanding  for the period and excludes the
+effects of any  potentially  dilutive  securities.  Diluted  earnings per share,
+includes the dilution  that would occur upon the exercise or  conversion  of all
+potentially  dilutive  securities  into common stock using the "treasury  stock"
+and/or "if converted"  methods as applicable.  In computing diluted earnings per
+share for the six month period ended December 31, 2013, the Company has included
+as  outstanding  1,000,000  options which are  exercisable  and have an exercise
+price below the average market price for the Company's shares during the period.
+For all  other  periods  presented,  potentially  dilutive  securities  would be
+anti-dilutive have not been included in computing diluted earnings per share.
+
+                                      -6-
+
+<PAGE>
+                           30DC, INC. AND SUBSIDIARY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2014
+                                   (UNAUDITED)
+
+
+
+NOTE 2.  GOING CONCERN
+----------------------
+
+The  condensed  consolidated  financial  statements  have  been  prepared  using
+accounting  principles  generally  accepted  in the  United  States  of  America
+applicable  for a going  concern which assumes that the Company will realize its
+assets and discharge its liabilities in the ordinary  course of business.  As of
+December 31, 2014, the Company had a working  capital  deficit of  approximately
+$1,688,000 and had  accumulated  losses of  approximately  $3,271,000  since its
+inception.  The  Company's  ability to continue as a going  concern is dependent
+upon its ability to obtain the  necessary  financing or to earn profits from its
+business operations to meet its obligations and pay its liabilities arising from
+normal  business  operations  when  they come due.  In the past few  years,  the
+Company  switched its focus to  developing  its own products.  In May 2012,  the
+Company launched MagCast which the Company expects to be an integral part of its
+businesses on an ongoing basis.  MagCast is being sold directly to customers and
+through an affiliate network which expands the Company's selling  capability and
+has a broad target  market beyond the Company's  traditional  customer  base. In
+April of 2014,  the Company  began  offering the Ultimate  Product  System which
+incorporates 30DC's digital marketing platform Market Pro Max. Until the Company
+achieves sustained profitability it does not have sufficient capital to meet its
+needs and continues to seek loans or equity placements to cover such cash needs.
+
+No  commitments to provide  additional  funds have been made and there can be no
+assurance that any additional  funds will be available to cover expenses as they
+may be  incurred.  If the  Company  is unable  to raise  additional  capital  or
+encounters  unforeseen  circumstances,  it may be  required  to take  additional
+measures to conserve  liquidity,  which could  include,  but not  necessarily be
+limited  to,  issuance of  additional  shares of the  Company's  stock to settle
+operating liabilities which would dilute existing  shareholders,  curtailing its
+operations, suspending the pursuit of its business plan and controlling overhead
+expenses.  The Company  cannot  provide any assurance that new financing will be
+available to it on commercially  acceptable  terms, if at all. These  conditions
+raise  substantial  doubt  about the  Company's  ability to  continue as a going
+concern.  These condensed  consolidated  financial statements do not include any
+adjustments to the amounts and classification of assets and liabilities that may
+be necessary should the Company be unable to continue as a going concern.
+
+For the past few years,  the  Company  offered  MagCast  through a once per year
+large-scale  promotion  for which the majority of sales were  through  marketing
+affiliates  which  are  unrelated  parties  who earn  commissions  by  referring
+customers  to the  Company  and a majority of the  Company's  annual  sales were
+during the promotion.  The Company held a smaller  promotion  through  marketing
+affiliates in July 2014 than in prior years. The Company does not expect to have
+a large-scale promotion during this fiscal year.
+
+NOTE 3. DIVESTITURE
+-------------------
+
+Effective  February 28, 2014, the Company  divested assets and liabilities  that
+made up its Immediate Edge subscription business ("Edge") to Raine Ventures, LLC
+("Raine")  in exchange for the  10,560,000  common  shares of the Company  which
+Raine had held. Included with the Edge business was cash of approximately $1,000
+and  intangible  assets  including  goodwill of  approximately  $225,000.  Raine
+assumed  liability for deferred  revenue of approximately  $19,000.  The Company
+recorded zero gain or loss on the  divestiture.  Operating  results for the Edge
+have been  reclassified as discontinued  operations for the three months and six
+months  ended  December  31,  2013  (see  note 4).  Raine  had  been  party to a
+contractor agreement with the Company which had expired in 2012 and was extended
+on a month to month basis and was terminated concurrent with the divestiture.
+
+                                      -7-
+<PAGE>
+                           30DC, INC. AND SUBSIDIARY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2014
+                                   (UNAUDITED)
+
+NOTE 4. DISCONTINUED OPERATIONS
+-------------------------------
+
+The  Company  has  included  two  businesses  in  discontinued  operations;  the
+Immediate Edge business which was divested effective February 28, 2014 (see note
+3) and the business of Infinity which was discontinued  after the share exchange
+with  30DC DE on  September  10,  2010.  Prior to the share  exchange,  Infinity
+withdrew its election to operate as a Business Development Company ("BDC") under
+the Investment Company Act of 1940 ("1940 Act").  Infinity historically operated
+as a non-diversified,  closed-end management investment company and prepared its
+financial  statements  as required by the 1940 Act.  30DC is no longer  actively
+operating  the BDC and the  assets,  liabilities  and results of  operations  of
+Infinity's former business are shown as discontinued operations in the Company's
+financial  statements  subsequent to the share  exchange  with 30DC.  Investment
+companies  report  assets at fair value and the Company has  continued to report
+investment assets in discontinued operations on this basis.
+<TABLE>
+<CAPTION>
+Results of Discontinued Operations for the
+                                                Six Months Ended December 31, 2014             Six Months Ended December 31, 2013
+                                            -------------------------------------------   ------------------------------------------
+                                            Immediate Edge     Infinity        Total      Immediate Edge     Infinity        Total
+                                            --------------   -------------- -----------   --------------   -------------- ----------
+<S>                                         <C>              <C>            <C>           <C>              <C>            <C>
+Revenues                                    $            -   $         -    $         -   $    194,135     $        -     $ 194,135
+Operating expenses                                       -         2,851          2,851        221,095           6,197      227,292
+Income (Loss) from operations                            -        (2,851)        (2,851)       (26,960)         (6,197)     (33,157)
+Forgiveness of debt                                      -             -              -              -             796          796
+Unrealized gain (loss) on
+ marketable securities                                   -       (10,250)       (10,250)             -          17,375       17,375
+                                            --------------   -------------- -----------   --------------   -------------- ----------
+Net Income (Loss)                           $            -   $   (13,101)   $   (13,101)  $    (26,960)    $    11,974    $ (14,986)
+                                            ==============   ============== ===========   ==============   ============== ==========
+
+                                                Three Months Ended December 31, 2014          Three Months Ended December 31, 2013
+                                            -------------------------------------------   ------------------------------------------
+                                            Immediate Edge     Infinity        Total      Immediate Edge     Infinity        Total
+                                            --------------   -------------- -----------   --------------   -------------- ----------
+Revenues                                    $            -   $         -    $         -   $     97,066     $         -    $  97,066
+Operating expenses                                       -         1,373          1,373        116,002           4,267      120,269
+Income (Loss) from operations                            -        (1,373)        (1,373)       (18,936)         (4,267)     (23,203)
+Unrealized gain on marketable securities                 -        18,578         18,578              -          16,229       16,229
+                                            --------------   -------------- -----------   --------------   -------------- ----------
+Net Income (Loss)                           $            -   $    17,205    $    17,205   $    (18,936)    $    11,962    $  (6,974)
+                                            ==============   ============== ===========   ==============   ============== ==========
+</TABLE>
+<TABLE>
+<CAPTION>
+Assets and Liabilities of Discontinued
+ Operations as of
+                                                           December 31, 2014                            June 30, 2014
+                                            -------------------------------------------   ------------------------------------------
+                                            Immediate Edge     Infinity        Total      Immediate Edge     Infinity          Total
+                                            --------------   -------------- -----------   --------------   -------------- ----------
+<S>                                         <C>              <C>            <C>           <C>              <C>            <C>
+Assets
+
+Cash                                        $            -   $         -    $         -   $          -     $         -    $       -
+Prepaid expenses                                         -             -              -              -               -            -
+Marketable securities                                    -       106,063        106,063              -         116,313      116,313
+                                            --------------   -------------- -----------   --------------   -------------- ----------
+
+Total Current Assets                                     -       106,063        106,063              -         116,313      116,313
+
+Goodwill                                                 -             -              -              -               -            -
+                                            --------------   -------------- -----------   --------------   -------------- ----------
+Total Assets of Discontinued Operations     $            -   $   106,063    $   106,063   $          -     $   116,313    $ 116,313
+                                            ==============   ============== ===========   ==============   ============== ==========
+
+LIABILITIES
+
+Accounts payable                            $            -   $    72,201    $    72,201   $          -      $   72,201    $  72,201
+Accrued expenses                                         -        65,148         65,148              -          62,297       62,297
+Deferred revenue                                         -             -              -              -               -            -
+Notes payable                                            -        53,550         53,550              -          61,050       61,050
+Due to related parties                                   -        21,000         21,000              -          21,000       21,000
+                                            --------------   -------------- -----------   --------------   -------------- ----------
+Total Liabilities of Discontinued
+ Operations                                 $            -   $   211,899    $   211,899   $          -     $   216,548    $ 216,548
+                                            ==============   ============== ===========   ==============   ============== ==========
+</TABLE>
+
+                                      -8-
+<PAGE>
+                           30DC, INC. AND SUBSIDIARY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2014
+                                   (UNAUDITED)
+
+Notes Payable
+
+Included in liabilities of discontinued operations at December 31, 2014 and June
+30, 2014 are $53,550 and $61,050  respectively  in notes  payable  plus  related
+accrued  interest of which are all in default for lack of repayment by their due
+date.
+
+For the six months  ended  December  31, 2014 and  December 31, 2013 the Company
+incurred  interest  expense on notes  payable of $2,851 and $6,100  respectively
+which is  included in the  Statement  of  Operations  under  income  (loss) from
+discontinued operations.
+
+Marketable Securities
+
+At December 31, 2014 the fair value of marketable  securities  held for sale was
+$106,063 which included  cumulative  net unrealized  gains of $39,653.  June 30,
+2014 the fair value of marketable  securities  held for sale was $116,313  which
+included cumulative net unrealized gains of $49,873.
+
+NOTE 5.  RELATED PARTY TRANSACTIONS
+-----------------------------------
+
+At December 31, 2014, due to related  parties totaled  $916,253.  This primarily
+consisted of $11,400 due to GHL Group, Ltd., whose President, Gregory H. Laborde
+is a Director,  under their consulting services agreement,  $149,000 accrued for
+directors' fees for services of non-executive directors,  $50,000 due to Netbloo
+Media,  Ltd.  under its  contractor  agreement  and  $704,000 due to Theodore A.
+Greenberg, CFO and director, for compensation.
+
+NOTE 6.  INCOME TAXES
+---------------------
+
+As of June 30, 2014,  the Company had net operating  loss  carryovers for United
+States income tax purposes of approximately  $925,300,  which begin to expire in
+2030.  For  income tax  purposes,  net  income  for the six month  period  ended
+December 31, 2013 is  completely  offset by the net operating  loss  carryovers;
+accordingly no income tax provision has been provided.  For future periods,  the
+U.S. net operating loss  carryovers may be subject to limitation  under Internal
+Revenue  Code Section 382 should there be a greater than 50% change in ownership
+as determined under the regulations.
+
+NOTE 7. STOCKHOLDERS' EQUITY
+----------------------------
+
+COMMON STOCK
+
+During the six months ended  December  31,  2014,  the Company did not issue any
+common stock.
+
+WARRANTS
+
+Information relating to outstanding warrants is as follows:
+
+                                                                Weighted Average
+                                   Number of   Weighted Average    Remaining
+                                    Shares      Exercise Price   Contract Life
+                                  ----------------------------------------------
+Outstanding warrants at 06/30/14   3,401,522       $ 0.50             1.30
+Granted                                    -            -                -
+Exercised                                  -            -                -
+Forfeited/expired                          -            -                -
+Outstanding warrants at 12/31/14   3,401,522         0.50             0.80
+
+Exercisable on 12/31/14            3,401,522         0.50             0.80
+
+
+                                      -9-
+<PAGE>
+                           30DC, INC. AND SUBSIDIARY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2014
+                                   (UNAUDITED)
+
+The aggregate intrinsic value of warrants  outstanding and exercisable was $0 at
+December 31, 2014.  Total intrinsic  value of warrants  exercised was $0 for the
+six months ended  December 31, 2014 as no warrants  were  exercised  during this
+period.
+
+NOTE 8.  STOCK BASED COMPENSATION PLANS
+---------------------------------------
+
+The  Company  follows  FASB  Accounting   Standards   Codification   No.  718  -
+Compensation - Stock  Compensation  for share based  payments to employees.  The
+Company follows FASB Accounting  Standards  Codification No. 505 for share based
+payments to Non-Employees.
+
+The Company  recognized expense in the amount of $17,709 and $49,528 for the six
+months ended December 31, 2014 and December 31, 2013 respectively and $8,855 and
+$24,764 for the three  months  ended  December  31, 2014 and  December  31, 2013
+respectively  for  options  granted in prior  periods the cost of which is being
+recorded on a straight-line  basis over the vesting period.  There was no impact
+on the Company's cash flow.
+
+Further information relating to stock options is as follows:
+
+                                                                      WEIGHTED
+                                                       WEIGHTED       AVERAGE
+                                        NUMBER         AVERAGE       REMAINING
+                                          OF           EXERCISE       CONTRACT
+                                        SHARES          PRICE       LIFE (YEARS)
+                                     -------------------------------------------
+Outstanding options at 06/30/14         3,600,000        $ 0.18           7.61
+Granted                                         -             -              -
+Exercised                                       -             -              -
+Forfeited/expired                               -             -              -
+Outstanding options at 12/31/14         3,600,000          0.18           7.11
+
+Exercisable on 12/31/14                 2,600,000          0.22           6.85
+
+The options have a contractual term of ten years. The aggregate  intrinsic value
+of options  outstanding  and  exercisable  was $0 at December  31,  2014.  Total
+intrinsic  value of options  exercised was $0 for the six months ended  December
+31, 2014 as no options were exercised during this period.
+
+At December  31,  2014,  shares  available  for future  stock  option  grants to
+employees and directors under the 2012 Stock Option Plan were 4,500,000.
+
+
+
+
+
+
+
+
+
+
+                                      -10-
+<PAGE>
+                           30DC, INC. AND SUBSIDIARY
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                DECEMBER 31, 2014
+                                   (UNAUDITED)
+
+NOTE 9. SUPPLEMENTAL SCHEDULE OF OPERATING EXPENSES
+---------------------------------------------------
+
+                                      Six Months Ended      Six Months Ended
+                                      December 31, 2014     December 31, 2013
+                                     --------------------  --------------------
+
+
+Related Party Contractor Fees (1)    $           321,974   $           325,666
+Officer's Salary                                  74,855               124,764
+Directors' Fees                                   63,855                79,764
+Independent Contractors                          176,941               246,467
+Commission Expense                               149,910               754,918
+Professional Fees                                 87,059               101,374
+Credit Card Processing Fees                       28,202               105,276
+Telephone and Data Lines                          19,139                16,819
+Other Operating Costs                            128,766               143,558
+                                     --------------------  --------------------
+
+Total Operating Expenses             $         1,050,701   $         1,898,606
+                                     ====================  ====================
+
+--------------------------------
+(1)  Related  party  contractors  include  Marillion an affiliate of the Company
+     that manages  marketing  and  development  for the Company and provides the
+     services  of Edward Dale as Chief  Executive  Officer of the  Company,  GHL
+     Group, Ltd., whose President,  Gregory H. Laborde is a Director and Netbloo
+     which was the joint developer of the MagCast Publishing Platform
+
+
+                                   Three Months Ended      Three Months Ended
+                                    December 31, 2014       December 31, 2013
+                                   --------------------    --------------------
+
+
+Related Party Contractor Fees (1)  $           157,790     $           166,158
+Officer's Salary                                37,428                  62,382
+Directors' Fees                                 31,928                  39,882
+Independent Contractors                         70,565                 128,299
+Commission Expense                               5,172                  35,570
+Professional Fees                               29,855                  66,545
+Credit Card Processing Fees                      1,949                   8,342
+Telephone and Data Lines                         9,087                  10,713
+Other Operating Costs                           68,846                  95,433
+                                   --------------------    --------------------
+
+Total Operating Expenses           $           412,620     $           613,324
+                                   ====================    ====================
+
+--------------------------------
+(1)  Related  party  contractors  include  Marillion an affiliate of the Company
+     that manages  marketing  and  development  for the Company and provides the
+     services  of Edward Dale as Chief  Executive  Officer of the  Company,  GHL
+     Group, Ltd., whose President,  Gregory H. Laborde is a Director and Netbloo
+     which was the joint developer of the MagCast Publishing Platform
+
+
+                                      -11-
+<PAGE>
+
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+--------------------------------------------------------------------------------
+
+THE  FOLLOWING  DISCUSSION  SHOULD  BE READ IN  CONJUNCTION  WITH OUR  UNAUDITED
+FINANCIAL  STATEMENTS AND NOTES THERETO INCLUDED HEREIN. IN CONNECTION WITH, AND
+BECAUSE WE DESIRE TO TAKE  ADVANTAGE  OF, THE "SAFE  HARBOR"  PROVISIONS  OF THE
+PRIVATE  SECURITIES  LITIGATION REFORM ACT OF 1995, WE CAUTION READERS REGARDING
+CERTAIN FORWARD LOOKING STATEMENTS IN THE FOLLOWING  DISCUSSION AND ELSEWHERE IN
+THIS REPORT AND IN ANY OTHER STATEMENT MADE BY, OR ON OUR BEHALF, WHETHER OR NOT
+IN FUTURE FILINGS WITH THE SECURITIES AND EXCHANGE  COMMISSION.  FORWARD-LOOKING
+STATEMENTS ARE STATEMENTS NOT BASED ON HISTORICAL  INFORMATION  AND WHICH RELATE
+TO FUTURE  OPERATIONS,  STRATEGIES,  FINANCIAL  RESULTS  OR OTHER  DEVELOPMENTS.
+FORWARD LOOKING  STATEMENTS ARE NECESSARILY BASED UPON ESTIMATES AND ASSUMPTIONS
+THAT ARE INHERENTLY  SUBJECT TO SIGNIFICANT  BUSINESS,  ECONOMIC AND COMPETITIVE
+UNCERTAINTIES AND  CONTINGENCIES,  MANY OF WHICH ARE BEYOND OUR CONTROL AND MANY
+OF WHICH,  WITH  RESPECT TO FUTURE  BUSINESS  DECISIONS,  ARE SUBJECT TO CHANGE.
+THESE  UNCERTAINTIES AND CONTINGENCIES CAN AFFECT ACTUAL RESULTS AND COULD CAUSE
+ACTUAL RESULTS TO DIFFER  MATERIALLY FROM THOSE EXPRESSED IN ANY FORWARD LOOKING
+STATEMENTS  MADE BY, OR ON OUR BEHALF.  WE  DISCLAIM  ANY  OBLIGATION  TO UPDATE
+FORWARD-LOOKING STATEMENTS.
+
+OVERVIEW
+
+30DC offers  digital media training and  publishing  solutions for  individuals,
+professionals  and  businesses  using the Internet and mobile media in operating
+their businesses and in particular in marketing digital creations.  Our flagship
+training course, The Challenge, is offered once annually for a thirty-day period
+at no fee as an interactive on-line education program.  The Challenge content is
+made available for purchase  throughout the year as the Digital Success Bootcamp
+training  course.  The course  content of The Challenge is geared to individuals
+and  professionals  with an interest  in  marketing  using  digital  media.  The
+participants  might be  motivated  to begin a new on-line  business or extend an
+existing  brick-and-mortar  business  to  an  on-line  platform.   Increasingly,
+Challenge participants are involved in the migration of commerce to mobile media
+comprised of tablet computers and smartphones.
+
+30DC's  digital  publishing  solutions  include the MagCast  Digital  Publishing
+Platform for the  publication  of magazines and other content to mobile  devices
+through a mobile  application  or "app" and Market Pro Max, a system for on-line
+marketing of digital  products.  The MagCast  platform and Market Pro Max system
+are licensed as software-as-a-service applications and are sold independently or
+in conjunction  with related  training  courses.  Digital  Publishing Blue Print
+instructs   participants  in  content   monetization  methods  and  the  use  of
+proprietary  content in developing  brand  awareness  and marketing  products or
+services.  The Ultimate  Product System is a video-based  program to help novice
+e-marketers  identify  and  define a market  niche  and  package  their  digital
+products for greatest marketability.
+
+In addition to our core  digital  media  training  and  publishing  products and
+solutions,  from time to time we offer a series  of  on-line  training  products
+related  to the  use of  digital  media  for  commerce  and  priced  at  nominal
+subscription  rates  around $50 per  month.  We also  offer  individual  courses
+covering a variety of digital  marketing  topics such as how to drive traffic to
+websites  using social  media  platforms  like  Facebook.  The Company  provides
+particular  training  courses to  licensees  of our MagCast  Digital  Publishing
+Platform  related to developing and marketing their digital  publications and we
+provide ancillary  services to assist licensees in creating mobile apps with the
+MagCast platform.
+
+CORPORATE HISTORY
+
+On September 10, 2010,  Infinity  Capital Group,  Inc., a Maryland  Corporation,
+("Infinity")   entered  into  a  Plan  and  Agreement  of  Reorganization   (the
+"Agreement")  with 30DC,  Inc.,  a  Delaware  corporation,  ("30DC  DE") and the
+Shareholders of 30DC DE ("30DC DE  Shareholders.").  In exchange for 100% of the
+issued and outstanding  shares of 30DC DE, Infinity issued  60,984,000 shares of
+
+                                      -12-
+<PAGE>
+
+its restricted  common stock.  The 30DC DE Shareholders  received 13.2 shares of
+common stock of Infinity for every one share of 30DC DE.  Infinity,  as a result
+of the transaction,  became the owning entity of 100% of the outstanding  shares
+of common stock of 30DC DE. For purposes of  accounting,  30DC DE was considered
+the accounting acquirer.  The business of 30DC DE became the primary business of
+Infinity.  Infinity was renamed 30DC, Inc.  (Maryland) ("30DC" and together with
+its subsidiary "the Company").  30DC DE was  incorporated on October 17, 2008 in
+the state of  Delaware,  as a holding  company,  for the  purpose  of  building,
+acquiring and managing international web-based sales and marketing companies. On
+July 15, 2009, 30DC DE completed the  acquisitions of the business and assets of
+30 Day Challenge ("30 Day") and Immediate Edge ("Immediate").
+
+In May of 2012 the Company  signed a joint venture  agreement  ("JV  Agreement")
+with Netbloo Media,  Ltd.  ("Netbloo") for the joint  development of the MagCast
+Digital Publishing Platform ("MagCast").  MagCast provides customers access to a
+cloud-based  service  to  create an  application  ("App")  to  publish a digital
+magazine on the digital  distribution  platforms Apple Newsstand and Google Play
+and  includes  executive  training  modules  to  develop  and  market a  digital
+magazine.  MagCast  was  launched  in May 2012 and a majority  of sales were the
+result of affiliate marketing relationships which result in commission of 50% of
+gross  revenue for those sales to the  affiliate  responsible  for the sale.  In
+October 2012 the Company reached an agreement to purchase Netbloo's 50% interest
+in the MagCast JV Agreement and Market Pro Max an online marketing platform that
+allows  anyone  to create  digital  products  and  quickly  build a  variety  of
+ecommerce  marketing  websites for a purchase price of 13,487,363  shares of the
+Company's common stock.
+
+Effective  February 28, 2014, the Company  divested assets and liabilities  that
+made up to Raine Ventures,  LLC ("Raine") in exchange for the 10,560,000  common
+shares  of the  Company  which  Raine had held.  Please  see Note 3 for  further
+details on the divestiture.
+
+PRODUCT OFFERINGS
+
+Our principal digital media training  products and publishing  solutions include
+the following:
+
+     o    The Challenge
+     o    Digital Success Bootcamp
+     o    MagCast Digital Publishing Platform
+     o    Digital Publishing Blue Print
+     o    Market Pro Max System
+     o    Ultimate Market System
+
+30DC was  founded in 2005 by  offering  a free  Internet  marketing  educational
+program that was  originally  known as The 30 Day Challenge and has evolved into
+the  Company's  current  Challenge  program.   The  Challenge  is  a  thirty-day
+interactive  educational  program  configured to give participants the framework
+and guidance to design and develop an on-line  business.  The course  content is
+made  available by  subscription  throughout the year as the Ignition Blue Print
+training course.
+
+The  Challenge  program  includes  modules  on  a  range  of  topics,  including
+researching market opportunity and competition, identifying and sustaining niche
+markets,  utilizing  social  media to build  your  business,  among  many  other
+subjects pertinent to Internet  marketing.  There are no prerequisites to taking
+the course and  participants  come from around the globe.  The course content of
+The Challenge is geared to individuals,  professionals  and business people with
+an interest in Internet marketing.  The participants might be motivated to begin
+a new on-line  business  or extend  existing  `brick-and-mortar'  business to an
+on-line  platform.  Increasingly,  Challenge  participants  are  involved in the
+migration of business to the mobile  media  comprised  of tablet  computers  and
+smartphones.
+
+The  Challenge has  predominately  grown  through our viral  marketing  campaign
+whereby  participants  are encouraged to publicize the program through email and
+social  media,  including  Twitter,  Facebook,  FriendFeed  and blogs focused on
+
+                                      -13-
+<PAGE>
+
+Internet  marketing.  The growth in The  Challenge  community  has resulted in a
+targeted community, to which the Company markets other high-valued added digital
+media training courses and solutions as well as third-party  products related to
+Internet marketing.
+
+The Company's  first  digital media  solution,  The MagCast  Digital  Publishing
+Platform  ("MagCast")  originated  from the  collaboration  of 30DC with Netbloo
+Media Ltd.  ("Netbloo')  in a joint venture.  It was first  introduced in fiscal
+year 2012, as a  software-as-a-service  for publication of digital magazines and
+other  proprietary  content to mobile  devices  through mobile  applications  or
+`apps'  based on the Applie iOS and Google  Android  architectures.  The MagCast
+platform is  relevant  to the  Company's  historical  customer  base of Internet
+marketers  as well as a broader  audience of users  interested  in  marketing to
+their clients  through the mobile  medium.  Publications  created on the MagCast
+platform can be distributed to readers  through Apple  Newsstand or Google Play,
+the app  distribution  channels for the two principal  mobile  device  operating
+systems. We believe the MagCast platform is distinctive among digital publishing
+applications by providing users with a built-in suite of marketing functions and
+tools.  We believe we are the first to introduce such a product and expect these
+features to differentiate the MagCast platform from competitors.
+
+The Company has continued to update the MagCast software  application to improve
+functionality  and 30DC has engaged a dedicated  team of software  developers to
+create new product  features.  Initially  mobile apps created  using the MagCast
+platform were available  only to readers with Apple iPad devices.  In the summer
+2013,  the Company  released  MagCast  version 4, which enabled our customers to
+offer  a  version  of  their   publication   tailored  for  the  iPhone  thereby
+significantly  expanding  the  potential  number of  magazine  readers.  MagCast
+version 6 released in July 2014 enabled  distribution  through Google Play where
+their  digital  magazine is available to users of Android  devices.  This update
+included a variety  of new  features  and  capabilities  such as dynamic  in-app
+purchasing,  a survey funnel, e-mail sharing,  push notifications,  and Facebook
+event  tracking,  among other modern  marketing  techniques  that could  benefit
+MagCast  platform users. In September 2014,  MagCast version 7 was released with
+an in-app sales funnel and the user  interface was improved to  facilitate  list
+building  and  issuance  of new  products  and  service  offers.  Version  7 was
+optimized for both  Google's  Android  architecture  and Apple's iOS 8 operating
+system, which are the two most popular mobile device architectures.
+
+Digital Publishing  Blueprint is a comprehensive  training program that provides
+instruction  in developing  and marketing a digital  publication.  The course is
+designed  to  instruct  participants  in  content  monetization  and  the use of
+proprietary  content to create  brand  awareness  and build  sales.  The fee for
+Digital  Publishing  Blueprint  includes  a  license  for the  MagCast  Digitial
+Publishing Platform.
+
+Market Pro Max is on-line  marketing system acquired in 2012 from Netbloo Media,
+Ltd. Market Pro Max is made available to users as a  software-as-a-service.  The
+application provides plug-n-play functionality to create on-line marketing sites
+with little or no programming experience.  Market Pro Max is targeted at digital
+businesses and information publishers seeking to monetize content on-line.
+
+Starting in 2014,  Market Pro Max has been sold in  conjunction  with an on-line
+training  course  Ultimate  Product System.  This  video-based  course helps the
+novice  e-marketer  identify and define a market niche and package  products for
+greatest marketability.
+
+BUSINESS MODEL AND GROWTH OPPORTUNITIES
+
+We generate revenue through subscriptions to on-line training programs, the sale
+of  video-based  training  courses,  and the sale of licenses for the use of our
+proprietary digital publishing  solutions.  We also earn commissions on the sale
+of  third-party  Internet  marketing  products and services to the 30DC customer
+base and in particular  during and after the annual Challenge  training program.
+Such revenue is referred to as affiliate marketing commissions.
+
+The Company's long-term growth strategy is to increase its portfolio of products
+and services while expanding the audience to which it markets those products and
+services.  Our  business  has  historically  been  driven by the  attraction  of
+participants  to a no-fee Internet  marketing  program,  The Challenge,  and the
+
+                                      -14-
+<PAGE>
+
+retention  of  those   participants  as  potential   customers  for  other  high
+valued-added training programs and digital publishing solutions.  Nearly 200,000
+individuals have participated in The Challenge since its inception.
+
+To expand the Company's  access to potential  customers,  during the fiscal year
+ended June 30, 2012, 30DC began a more comprehensive  program of selling through
+affiliate marketing  relationships.  Affiliates promote 30DC's products to their
+respective  customer bases and receive a commission from 30DC as a percentage of
+gross revenue typically in a range of 30% to 50%.
+
+In fiscal year 2013, the Company  initiated its MagCast  Certified  Professional
+(MCP) program for the resale of the MagCast Digital Publishing Platform. The MCP
+program is intended to drive penetration of corporate and other vertical markets
+with an interest in reaching  their  audiences  with  digital  content on mobile
+devices.
+
+30DC's marketing  strategy includes  paid-for traffic  generation to its product
+web sites as well as the purchase of sales leads for product  promotion  through
+targeted e-mails. Additionally,  during fiscal year 2014, the Company began test
+marketing on-line and mobile  advertising,  which has become more  sophisticated
+and enables  targeting of customers who are more likely to be interested in 30DC
+products and services.  The initial  advertising  test focused on the Market Pro
+Max system and related training program Ultimate Product System.
+
+The Company  has no plans at this time for  purchases  or sales of fixed  assets
+which would occur in the next twelve months.
+
+The Company has no expectation or anticipation of significant  changes in number
+of employees in the next twelve months.
+
+RESULTS OF OPERATIONS
+
+FOR THE THREE MONTH PERIOD ENDED  DECEMBER 31, 2014  COMPARED TO THE THREE MONTH
+PERIOD ENDED DECEMBER 31, 2013.
+
+During the three months ended December 31, 2014, 30DC, Inc.  recognized revenues
+of $176,722 from  continuing  operations  compared to $207,746  during the three
+months ended December 31, 2013.  Revenues from  continuing  operations were from
+the following  sources  during the three months ended December 31, 2014 compared
+to December 31, 2013.
+
+                             Three Months       Three Months        Increase
+                                 Ended              Ended               or
+                           December 31, 2014  December 31, 2013    (Decrease)
+                          ------------------ ------------------ ----------------
+Revenue
+  Commissions             $         14,991   $        12,755    $         2,236
+  Subscription Revenue              31,684                 -             31,684
+  Products and Services            130,047           194,991            (64,944)
+                          ------------------ ------------------ ----------------
+   Total Revenues         $        176,722   $       207,746    $       (31,024)
+
+The $31,684  increase  in  subscription  revenue  was due to a new online  forum
+subscription  product  which  was  launched  in April  2014 and has a  recurring
+monthly charge.
+
+The $64,944  decrease in products and services revenue resulted from a number of
+offsetting  factors.  Revenue from the MagCast Publishing  Platform decreased by
+$141,717 primarily due to a special promotion for existing customers to purchase
+an additional  license in October 2013 which did not repeat in the 2014 quarter.
+This was  partially  offset by a  $10,725  increase  in sales of Market  Pro Max
+including the Ultimate  Product System which is a training program that includes
+a lifetime  license for one Market Pro Max marketing web site and an increase in
+sales of $66,113 in the sale of other  products  the  company has  developed  on
+topics such as increasing traffic to web sites.
+
+                                      -15-
+<PAGE>
+
+During the three months ended December 31, 2014, the Company  incurred  $412,620
+in operational  expenses for continuing  operations  compared to $613,324 during
+the three months ended December 31, 2014.  Operational expenses during the three
+months ended December 31, 2014 and 2013, include the following categories:
+
+                              Three Months Ended Three Months Ended Increase or
+                               December 31, 2014  December 31, 2013   Decrease
+                              ------------------ ------------------ -----------
+Accounting Fees               $          16,000  $          51,600  $   (35,600)
+Advertising                              22,526                  -       22,526
+Credit Card Processing Fees               1,949              8,342       (6,393)
+Commissions                               5,172             35,570      (30,398)
+Independent Contractors                  70,565            128,299      (57,734)
+Depreciation and Amortization            18,561             20,673       (2,112)
+Directors' Fees                          31,928             39,882       (7,954)
+Internet Expenses                         8,138              8,226          (88)
+Legal Fees                               13,855             14,945       (1,090)
+Officer's Salaries                       37,428             62,382      (24,954)
+Related Party Contractors               157,790            166,158       (8,368)
+Telephone and Data Lines                  9,087             10,713       (1,626)
+Travel & Entertainment                    1,079             44,536      (43,457)
+Other Operating Expenses                 18,542             21,998       (3,456)
+                              ------------------ -------------------------------
+
+Total Operating Expenses      $         412,620  $         613,324  $  (200,704)
+                              ================== ================== ============
+
+The decrease of $35,600 in  accounting  fees was due to a decrease of $41,600 in
+charges from the Company's  independent auditing firm which was primarily due to
+a delay in timing of the  Company's  audit for the fiscal  year  ending June 30,
+2013 which resulted in charges being delayed beyond September 30, 2013 offset by
+$6,000 paid to an  e-commerce  accounting  firm which was  engaged  July 2014 to
+automate and administer recording and reconciling 30DC's daily transactions.
+
+The increase of $22,526 in  advertising  is due to the Company  advertising  its
+digital  products on Facebook  and the cost of marketing  consultant  who helped
+with the advertising campaign.
+
+The decrease of $30,398 in  commissions  resulted from the $141,717  decrease in
+revenue  from the  MagCast  Publishing  Platform,  a portion  of which are sales
+marketing  affiliate  relationships  which result in  commission  expense and an
+under  accrual of in the  September  2013 quarter of  approximately  $15,000 for
+commissions  related to the  promotional  launch in August 2013 which  increased
+commissions in the December 2013 quarter.
+
+The  decrease of $57,734 in  independent  contractors  is  primarily  due to the
+Company terminating its relationship with two long-term contractors,  one at the
+end of July 2014, saving the Company  approximately $9,000 per month, and one at
+the end of August 2014,  saving the Company  approximately  $6,000 per month. In
+addition the  December  2013 quarter  included  approximately  $12,000 paid to a
+contractor hired to help with the Company's  annual free course,  the Challenge,
+$6,500 paid to investor relations consultants, $5,000 for a strategic consultant
+and $3,000 for a valuation  analyst.  These increases were offset by an increase
+of $6,000 per month to a contractor who has assumed additional responsibilities.
+
+The decrease of $7,954 in directors'  fees is from a reduction in the charge for
+amortization of stock option expense over the vesting period,  for stock options
+previously issued to Henry Pinskier,  the Company's board chair, in the December
+2014 quarter from the amount in the December  2013 quarter due to fewer  options
+remaining unvested.
+
+                                      -16-
+<PAGE>
+
+The  decrease  of $24,954 in  officer's  salaries  was due to a  reduction  in a
+reduction  in base salary for  Theodore A.  Greenberg,  the  Company's  CFO from
+$200,000 to $132,000 per year and a reduction in the charge for  amortization of
+stock  option  expense over the vesting  period,  for stock  options  previously
+issued to Mr.  Greenberg  in the  December  2014  quarter from the amount in the
+December 2013 quarter due to fewer options remaining unvested.
+
+The decrease of $8,368 in Related Party  Contractors  was due to a change in the
+exchange  rate  which  reduced  the US  Dollar  amount  for  Marillion  Partners
+contractor fees which are paid in Australian Dollars.
+
+Travel and  Entertainment  decreased  by  $43,457  due to a  company-wide  group
+meeting and travel to an investor  conference,  both in November  2013 which did
+not repeat in the December 2014 quarter.
+
+During the three months ended  December 31, 2014,  the Company  recognized a net
+loss  from  continuing  operations  of  $235,898  compared  to a net  loss  from
+continuing  operations  of $399,318  during the three months ended  December 31,
+2013. The reduced net loss from continuing operations of $163,420 was due to the
+decrease in  operating  expenses of $200,704  offset by a decrease in revenue of
+$31,024 and forgiveness of debt income of $6,260 in the December 2013 quarter.
+
+FOR THE SIX MONTH  PERIOD  ENDED  DECEMBER  31,  2014  COMPARED TO THE SIX MONTH
+PERIOD ENDED DECEMBER 31, 2013.
+
+During the six months ended December 31, 2014, 30DC, Inc. recognized revenues of
+$876,789 from continuing operations compared to $2,150,625 during the six months
+ended  December 31, 2013.  Revenues  from  continuing  operations  were from the
+following  sources  during the six months ended  December  31, 2014  compared to
+December 31, 2013.
+
+                              Six Months         Six Months
+                                Ended               Ended         Increase or
+                          December 31, 2014  December 31, 2013     (Decrease)
+                          -----------------  ----------------- -----------------
+Revenue
+  Commissions             $       28,926     $        31,729   $         (2,803)
+  Subscription Revenue            61,638                   -             61,638
+  Products and Services          786,225           2,118,896         (1,332,671)
+                          -----------------  ----------------- -----------------
+   Total Revenues         $      876,789     $     2,150,625   $   $ (1,273,836)
+
+The $61,638  increase  in  subscription  revenue  was due to a new online  forum
+subscription  product  which  was  launched  in April  2014 and has a  recurring
+monthly charge.
+
+The  $1,332,671  decrease in products and  services  revenue was mainly due to a
+decrease of $1,430,830  in revenue from the MagCast  Publishing  Platform  which
+resulted from a smaller launch promotion in July 2014 than August 2013. This was
+partially  offset by a $30,689 increase in sales of Market Pro Max including the
+Ultimate  Product  System which is a training  program that  includes a lifetime
+license  for one Market Pro Max  marketing  web site and an increase in sales of
+$67,535 in the sale of other  products the company has  developed on topics such
+as increasing traffic to web sites.
+
+During the six months ended December 31, 2014, the Company  incurred  $1,050,701
+in operational expenses for continuing  operations compared to $1,898,606 during
+the six months  ended  December 31, 2013.  Operational  expenses  during the six
+months ended December 31, 2014 and 2013, include the following categories:
+
+                                      -17-
+<PAGE>
+                              Six Months Ended  Six Months Ended  Increase or
+                              December 31, 2014 December 31, 2013  Decrease
+                              ----------------- ----------------- --------------
+Accounting Fees               $         67,250  $         73,807  $      (6,557)
+Advertising                             33,912               192         33,720
+Credit Card Processing Fees             28,202           105,276        (77,074)
+Commissions                            149,910           754,918       (605,008)
+Independent Contractors                176,941           246,467        (69,526)
+Depreciation and Amortization           36,889            41,008         (4,119)
+Directors Fees                          63,855            79,764        (15,909)
+Internet Expenses                       16,699            16,481            218
+Legal Fees                              19,809            27,567         (7,758)
+Officer's Salaries                      74,855           124,764        (49,909)
+Related Party Contractors              321,974           325,666         (3,692)
+Telephone and Data Lines                19,139            16,819          2,320
+Travel & Entertainment                   2,133            45,168        (43,035)
+Other Operating Expenses                39,133            40,709         (1,576)
+                              ----------------- --------------------------------
+
+Total Operating Expenses      $      1,050,701  $      1,898,606  $    (847,905)
+                              ================= ================= ==============
+
+The increase of $33,720 in  advertising  is due to the Company  advertising  its
+digital  products on Facebook  and the cost of marketing  consultant  who helped
+with the advertising campaign.
+
+The  decrease  of $77,074  in credit  card  processing  fees  resulted  from the
+$1,273,836  decrease  in revenue  and a decrease  of  approximately  1.5% in the
+effective credit card processing rate.
+
+The decrease of $605,008 in commissions resulted from the $1,332,671 decrease in
+products  and  services  revenue,  a  significant  portion  of which  are  sales
+marketing affiliate relationships which result in commission expense.
+
+The  decrease of $69,526 in  independent  contractors  is  primarily  due to the
+Company terminating its relationship with two long-term contractors,  one at the
+end of July 2014, saving the Company  approximately $9,000 per month, and one at
+the end of August 2014,  saving the Company  approximately  $6,000 per month. In
+addition the six months ended December 2013 included  approximately $12,000 paid
+to a  contractor  hired to help  with the  Company's  annual  free  course,  the
+Challenge, $6,500 paid to investor relations consultants, $5,000 for a strategic
+consultant and $3,000 for a valuation analyst. These increases were offset by an
+increase  of  $6,000  per  month  to a  contractor  who has  assumed  additional
+responsibilities.
+
+The decrease of $15,909 in directors' fees is from a reduction in the charge for
+amortization of stock option expense over the vesting period,  for stock options
+previously  issued to Henry  Pinskier,  the  Company's  board chair,  in the six
+months ended December 2014 from the amount in the six months ended December 2013
+due to fewer options remaining unvested.
+
+The  decrease  of $49,909 in  officer's  salaries  was due to a  reduction  in a
+reduction  in base salary for  Theodore A.  Greenberg,  the  Company's  CFO from
+$200,000 to $132,000 per year and a reduction in the charge for  amortization of
+stock  option  expense over the vesting  period,  for stock  options  previously
+issued to Mr. Greenberg in the six months ended December 2014 from the amount in
+the six months ended December 2013 due to fewer options remaining unvested.
+
+Travel and  Entertainment  decreased  by  $43,035  due to a  company-wide  group
+meeting and travel to an investor  conference,  both in November  2013 which did
+not repeat during the six months ended December 2014.
+
+                                      -18-
+<PAGE>
+
+During the six months ended December 31, 2014, the Company recognized a net loss
+from  continuing  operations of $173,912  compared to net income from continuing
+operations  of $345,532  during the six months  ended  December  31,  2013.  The
+decrease in net income from  continuing  operations  of $519,444  was due to the
+decrease in revenue  $1,273,836  offset by the  decrease in  operating  expenses
+$847,905  and  forgiveness  of debt  income of $93,513  in the six months  ended
+December 2013.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company had a cash  balance of $123,102 at December 31, 2014 and the Company
+had a working  capital  deficit of $1,688,377.  To fund working  capital for the
+next 12 months,  the Company expects to raise capital and to improve the results
+of operations from increasing revenue as well as a reduction in operating costs.
+The Company expects increased  revenue from further sales of MagCast  Publishing
+Platform  through  its  Digital  Publishing  Blueprint  training  course  and by
+marketing to customers  outside its  historical  customer  base with the goal of
+recurring  revenue through annual licenses.  The Company also expects  increased
+revenue from further sales of Market Pro Max through its Ultimate Product System
+training  course  and  introduction  of new  products  some  of  which  will  be
+extensions  of existing  product  lines.  Additionally,  the Company  intends to
+increase funds available by raising capital, though at this time the Company has
+not commenced any offerings and cannot guarantee that they will be successful in
+its capital raising efforts. If the results of operations and capital raised, if
+any, are not  sufficient  to fund the  Company's  expenses as they come due, the
+Company  will defer  amounts due to related  parties and to the extent  possible
+utilize shares of the Company to satisfy its liabilities.
+
+Included in  liabilities  of  discontinued  operations  at December  31, 2014 is
+$53,550 in notes payable plus related  accrued  interest that are in default for
+lack of repayment by their due date.
+
+During the six month  period  ended  December  31,  2014,  operating  activities
+provided the Company with  $33,376.  During the six month period ended  December
+31, 2013, operating activities provided the Company with $117,173.  The decrease
+of $83,797 in funds  provided by operating  activities  was a combination of the
+decrease in net income from continuing  operations of approximately  $517,559, a
+decrease of approximately $317,000 in the change in accrued expenses and refunds
+due to payment of commissions  which accrued on accounts  receivable at June 30,
+2013 and change in status of  accrued  contractor  fees in the six months  ended
+December  31,  2013 from due to related  parties  because  Clinton  Carey was no
+longer a member of the  Company's  board and a decrease in  deferred  revenue of
+approximately  $82,000.  This was  offset by a  decrease  in change in  accounts
+receivable of approximately $200,000 due to accounts receivable from the MagCast
+relaunch in August 2013, an increase of approximately  $116,000 in the change in
+accounts  payable due to  affiliate  commissions  which were due at December 31,
+2014 from the MagCast  relaunch in July 2014 and payment of accounts payable due
+June 30, 2013 with shares of the Company  during the six months  ended  December
+31,  2013, a decrease to the change in due to related  parties of  approximately
+$340,000 because Clinton Carey was no longer a member of the Company's board, an
+approximate  decrease  of $133,000  to change in the amount of  restricted  cash
+which is the amount held in reserve by the Company's credit card processor which
+was higher at December 31, 2013 due to the MagCast relaunch in August 2013 and a
+decrease  of  approximately  $93,000 in  forgiveness  of debt  income  which was
+including  in net income  from  continuing  operations  in the six months  ended
+December 2014 but did not generate cash.
+
+GOING CONCERN
+
+The  condensed  consolidated  financial  statements  have  been  prepared  using
+accounting  principles  generally  accepted  in the  United  States  of  America
+applicable  for a going  concern which assumes that the Company will realize its
+assets and discharge its liabilities in the ordinary  course of business.  As of
+December 31, 2014, the Company has a working  capital  deficit of  approximately
+$1,688,000 and has  accumulated  losses of  approximately  $3,271,000  since its
+inception.  The  Company's  ability to continue as a going  concern is dependent
+upon the ability of the  Company to obtain the  necessary  financing  or to earn
+profits  from  its  business  operations  to meet  its  obligations  and pay its
+liabilities  arising from normal business  operations when they come due. In the
+past few years,  the Company  switched its focus to developing its own products.
+
+                                      -19-
+<PAGE>
+
+In May 2012,  the Company  launched  MagCast which the Company  expects to be an
+integral  part of its  businesses  on an  ongoing  basis.  MagCast is being sold
+directly  to  customers  and  through an  affiliate  network  which  expands the
+Company's selling  capability and has a broad target market beyond the Company's
+traditional  customer  base. In April of 2014,  the Company  began  offering the
+Ultimate Product System which  incorporates  30DC's digital  marketing  platform
+Market Pro Max. Until the Company achieves  sustained  profitability it does not
+have sufficient  capital to meet its needs and continues to seek loans or equity
+placements to cover such cash needs.
+
+No  commitments to provide  additional  funds have been made and there can be no
+assurance that any additional  funds will be available to cover expenses as they
+may be  incurred.  If the  Company  is unable  to raise  additional  capital  or
+encounters  unforeseen  circumstances,  it may be  required  to take  additional
+measures to conserve  liquidity,  which could  include,  but not  necessarily be
+limited  to,  issuance of  additional  shares of the  Company's  stock to settle
+operating liabilities which would dilute existing  shareholders,  curtailing its
+operations, suspending the pursuit of its business plan and controlling overhead
+expenses.  The Company  cannot  provide any assurance that new financing will be
+available to it on commercially  acceptable  terms, if at all. These  conditions
+raise  substantial  doubt  about the  Company's  ability to  continue as a going
+concern.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+------------------------------------------------------------------
+
+The Company earns the majority of its revenue in United States  dollars  ("USD")
+and pays a  significant  amount of its expense in  Australian  dollars  ("AUD").
+Material fluctuations in the exchange rate between USD and AUD may have material
+impact on the Company's results of operations.
+
+ITEM 4.  CONTROLS AND PROCEDURES
+--------------------------------
+
+DISCLOSURES CONTROLS AND PROCEDURES
+
+We have adopted and maintain disclosure controls and procedures (as such term is
+defined in Rules 13a 15(e) and 15d-15(e)  under the  Securities  Exchange Act of
+1934,  as  amended  (the  "Exchange  Act"))  that are  designed  to ensure  that
+information  required to be disclosed in our reports  under the Exchange Act, is
+recorded,  processed,  summarized and reported within the time periods  required
+under  the  SEC's  rules and forms  and that the  information  is  gathered  and
+communicated to our management, including our Chief Executive Officer (Principal
+Executive Officer) and Principal Financial Officer, as appropriate, to allow for
+timely decisions regarding required disclosure.
+
+As required by SEC Rule  15d-15(b) for the quarter ended  December 31, 2014, our
+Chief Executive Officer and Chief Financial  Officer,  carried out an evaluation
+under the  supervision  and with the  participation  of our  management,  of the
+effectiveness  of the  design  and  operation  of our  disclosure  controls  and
+procedures  pursuant  to  Exchange  Act Rule  15d-14 as of the end of the period
+covered by this report. Based on the foregoing  evaluation,  they have concluded
+that our disclosure controls and procedures are not effective in timely alerting
+them to material information required to be included in our periodic SEC filings
+and to ensure that  information  required to be  disclosed  in our  periodic SEC
+filings is accumulated and  communicated to our management,  including our Chief
+Executive Officer,  to allow timely decisions regarding required disclosure as a
+result of the  deficiency  in our  internal  control  over  financial  reporting
+discussed below.
+
+MANAGEMENT'S QUARTERLY REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING.
+
+With the  participation  of our Chief  Executive  Officer  and Chief  Accounting
+Officer,  we have  evaluated the  effectiveness  of our  "internal  control over
+financial  reporting" (as such term is defined in Rules  13a-15(e) and 15d-15(e)
+under the  Securities  Exchange Act of 1934, as amended (the " Exchange Act ")),
+as of the end of the period covered by this report.  Based upon such evaluation,
+our Chief Executive  Officer and Chief Financial Officer have concluded that, as
+of the end of such period,  our "internal  control over financial  reporting" is
+not effective due to the material  weaknesses  noted below, in ensuring that (i)
+information required to be disclosed by us in the reports that we file or submit
+
+                                      -20-
+<PAGE>
+
+under the Exchange Act is recorded,  processed,  summarized and reported, within
+the time periods specified in the Securities and Exchange Commission's rules and
+forms and (ii) information required to be disclosed by us in the reports that we
+file or submit under the Exchange Act is  accumulated  and  communicated  to our
+management,  including our principal executive and principal financial officers,
+or  persons  performing  similar  functions,  as  appropriate  to  allow  timely
+decisions regarding required disclosure.
+
+(1)  Segregation of Duties: We do not currently have a sufficient  complement of
+     technical  accounting  and  external  reporting  personal  commensurate  to
+     support standalone external financial reporting under public company or SEC
+     requirements.  Specifically,  the  Company  did not  effectively  segregate
+     certain  accounting  duties due to the small size of its accounting  staff,
+     and maintain a sufficient number of adequately trained personnel  necessary
+     to anticipate and identify  risks  critical to financial  reporting and the
+     closing process.  In addition,  there were inadequate reviews and approvals
+     by the Company's  personnel of certain  reconciliations and other processes
+     in day-to-day operations due to the lack of a full complement of accounting
+     staff.
+
+(2)  Financial  Reporting  Systems:  We did  not  maintain  a  fully  integrated
+     financial consolidation and reporting system throughout the period and as a
+     result,  extensive  manual  analysis,  reconciliation  and adjustments were
+     required in order to produce  financial  statements for external  reporting
+     purposes.
+
+REMEDIATION OF MATERIAL WEAKNESS
+
+As our current  financial  condition  allows, we are in the process of analyzing
+and  developing  our  processes  for the  establishment  of formal  policies and
+procedures with necessary segregation of duties, which will establish mitigating
+controls to compensate  for the risk due to lack of  segregation  of duties.  In
+July 2014, the Company  contracted an e-commerce  accounting  firm to automate a
+number  of our  accounting  processes  and  to  provide  outsourced  bookkeeping
+services that provide for segregation of some of the duties which previously had
+not been.
+
+Because of its inherent  limitations,  internal control over financial reporting
+may not prevent or detect misstatements.  Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become
+inadequate  because of changes in  conditions,  or that the degree of compliance
+with the policies or procedures may deteriorate.
+
+There  was no change in our  internal  control  over  financial  reporting  that
+occurred  during the fiscal quarter ended December 31, 2014, that has materially
+affected,  or is reasonably  likely to materially  affect,  our internal control
+over financial reporting.
+
+
+
+
+
+
+
+
+
+
+                                      -21-
+<PAGE>
+
+                           PART II - OTHER INFORMATION
+
+
+ITEM 1. LEGAL PROCEEDINGS
+-------------------------
+
+None.
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+-------------------------------------------------------------------
+
+During the period  July 1, 2014  through  December  31, 2014 the Company did not
+issue any equity securities.
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+---------------------------------------
+
+Included in  liabilities  of  discontinued  operations  at December  31, 2014 is
+$53,550 in notes payable plus related  accrued  interest that are in default for
+lack of repayment by their due date.
+
+ITEM 4. MINE SAFETY DISCLOSURES
+-------------------------------
+
+Not Applicable.
+
+ITEM 5. OTHER INFORMATION
+-------------------------
+
+None.
+
+ITEM 6. EXHIBITS
+----------------
+
+The  following is a complete  list of exhibits  filed as part of this Form 10-Q.
+Exhibit  numbers  correspond  to the numbers in the Exhibit Table of Item 601 of
+Regulation S-K.
+
+----------------- -- -----------------------------------------------------------
+    EXHIBIT NO.                           DESCRIPTION
+----------------- -- -----------------------------------------------------------
+31.1                 Section 302 Certification - CEO
+----------------- -- -----------------------------------------------------------
+31.2                 Section 302 Certification - CFO
+----------------- -- -----------------------------------------------------------
+32.1                 Section 906 Certification - CEO
+----------------- -- -----------------------------------------------------------
+32.2                 Section 906 Certification - CFO
+----------------- -- -----------------------------------------------------------
+101.INS              XBRL Instance Document (1)
+----------------- -- -----------------------------------------------------------
+101.SCH              XBRL Taxonomy Extension Schema Document (1)
+----------------- -- -----------------------------------------------------------
+101.CAL              XBRL Taxonomy Extension Calculation Linkbase Document (1)
+----------------- -- -----------------------------------------------------------
+101.DEF              XBRL Taxonomy Extension Definition Linkbase Document (1)
+----------------- -- -----------------------------------------------------------
+101.LAB              XBRL Taxonomy Extension Label Linkbase Document (1)
+----------------- -- -----------------------------------------------------------
+101.PRE              XBRL Taxonomy Extension Presentation Linkbase Document (1)
+
+--------------------------------------------------------------------------------
+(1)  Pursuant to Rule 406T of  Regulation  S-T,  this  interactive  data file is
+     deemed not filed or part of a  registration  statement  or  prospectus  for
+     purposes of Sections 11 or 12 of the  Securities Act of 1933, is deemed not
+     filed for  purposes of Section 18 of the  Securities  Exchange Act of 1934,
+     and otherwise is not subject to liability under these sections.
+
+--------------------------------------------------------------------------------
+
+                                      -22-
+<PAGE>
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Section 12 of the Securities and Exchange Act of
+1934,  the  Registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+
+                                   30DC, INC.
+                      ------------------------------------
+                                   Registrant
+
+
+
+
+Dated: February 12, 2015                   By:/s/ Edward Dale
+                                           -------------------------------------
+                                           Edward Dale
+                                           Principal Executive Officer
+                                           Chief Executive Officer
+                                           President
+
+
+Dated: February 12, 2015                   By:/s/ Theodore A. Greenberg
+                                           -------------------------------------
+                                           Theodore A. Greenberg,
+                                           Principal Accounting Officer
+                                           Chief Financial Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -23-
+</TEXT>
+</DOCUMENT>
